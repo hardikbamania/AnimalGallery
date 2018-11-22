@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zoo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exibits_feeds">https://gist.githubusercontent.com/anonymous/5002cd29ebf29c6d26ee3fe8544e78a1/raw/f02dc26b7cc70bdc98051c97604eb4e876a2bdb6</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/PaulTR/dabbbd590c791a33f6e9/raw/deaf9ebbd69dedf5253ad02b09565138260fbe69</string>
+    <string name="pins_feed">https://gist.githubusercontent.com/PaulTR/7b24b7659fe85e71dc17/raw/0fb06dc25b5f701a75a49539a02acfa9a43158bc</string>
+    <string name="title_activity_exibit">Exibit</string>
+    <string name="title_activity_zoo_maps">Map</string>
+</resources>
